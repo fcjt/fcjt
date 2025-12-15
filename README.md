@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some passion projects and doing a full stack project on a gateway website<br>🤝 I’m looking for help with intern opportunities in web dev and data analytics<br>🌱 I’m currently learning to be a full fledged web dev and data analytics<br><br><br>Contact me on farrelcjt@gmail.com
+🔭 I’m currently working on some passion projects and doing a full stack project on a gateway website<br>🤝 I’m looking for help with intern opportunities in web dev and data analytics<br>🌱 I’m currently learning to be a full fledged web dev and data analytics<br><br>
 
 
 ## 🌐 Socials:
